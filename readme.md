@@ -12,7 +12,7 @@ A fun and interactive **Rock Paper Scissors** game built using HTML, CSS, and Ja
 HTML, CSS, JavaScript  
 
 ## 📷 Screenshots  
-![Rock Paper Scissors Screenshot](game.jpg)  
+![Rock Paper Scissors Screenshot](images/game.jpg)  
 
 ## 📌 How to Play  
 1. Select **Rock**, **Paper**, or **Scissors**.  
